@@ -3,4 +3,4 @@
 Authors: Damir Dairov, Kamila Amangeldinova.
 
 # Brief introduction
-The project implies machine learning techniques to predict diverse financial markets. 
+The project implies machine learning techniques to predict diverse financial markets. Our initial model is ARIMA. 
