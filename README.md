@@ -3,4 +3,4 @@
 Members: Damir Dairov, Kamila Amangeldinova. 
 
 # Brief introduction
-The project consists of implication of machine learning techniques in order to predict diverse financial markets. 
+The project implies machine learning techniques to predict diverse financial markets. 
