@@ -6,8 +6,10 @@ In this repository you can find the implitation of machine learning techniques l
 
 ## Coding steps:
 ### Importing Libraries
+All the required libraries are imported in one block of code such as numpy, pandas, matplotlib, seaborn, and statsmodels.
 
 ### Loading Data
+
 
 ### Preprocessing Data
 
