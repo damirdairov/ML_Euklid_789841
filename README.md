@@ -15,7 +15,7 @@ The 1st step was to check the shape of all the datasets, check for missing and d
 The distribution of data can be found in this section.
 
 ### Model selection & Model Fit
-As the baseline there was selected ARIMA model, parameters p,d,q were selected with auto_arima. ARIMA and LSTM models are fit to the data, the results are assessed with the metrics RMSE, MAE (for LSTM).
+As the baseline there was selected ARIMA model because this is traditional model for time series; parameters p,d,q were selected with auto_arima. ARIMA and LSTM models are fit to the data, LSTM is done to compare the results with ARIMA. The results are assessed with the metrics RMSE, MAE (for LSTM).
 
 ### Results & Conclusion
 In this section, there is the difference with original and predicted data to compare. You can find one of the easiest models in this repository and its usage to predict stock prices and to see the difference in the datasets and in the models. 
